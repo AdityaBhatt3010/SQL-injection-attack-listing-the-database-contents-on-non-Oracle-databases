@@ -140,7 +140,7 @@ Success banner confirmed.
 Thanks for sticking through the PoC! 💫
 This lab is a perfect example of why UNION-based SQLi still remains one of the cleanest exploitation paths for pulling real data straight out of backend databases.
 
-Until the next lab — keep hacking smart.
-**— Aditya Bhatt** 🔥😎
+Until the next lab — keep hacking smart. <br/>
+**~ Aditya Bhatt** 🔥😎
 
 ---
