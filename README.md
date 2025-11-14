@@ -17,7 +17,7 @@ A UNION-based SQL injection in the product category filter lets us:
 
 Simple UNION SQLi → Full DB compromise → Admin access 🔥
 
-![Cover](SQLi_/Cover.png)
+![Cover](SQLi_/Cover.jpeg)
 
 ---
 
