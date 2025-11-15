@@ -17,6 +17,8 @@ A UNION-based SQL injection in the product category filter lets us:
 
 Simple UNION SQLi → Full DB compromise → Admin access 🔥
 
+[Lab Link](https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-non-oracle) <br/>
+
 ![Cover](SQLi_/Cover.jpeg)
 
 ---
